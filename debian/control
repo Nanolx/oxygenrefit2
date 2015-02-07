@@ -1,0 +1,19 @@
+Source: oxygen-refit-2
+Section: Speedwave
+Priority: extra
+Maintainer: Christopher Bratusek <zanghar@freenet.de>
+Build-Depends: debhelper (>= 5),
+Standards-Version: 3.7.2
+
+Package: oxygen-refit-2
+Architecture: all
+Depends: hicolor-icon-theme
+Description: Oxygen Refit 2
+ Oxygen Refit 2 is an iconcompilation made from several icon themes
+ outwhere, especially Oxygen and Crystal, several icons have been
+ edited.
+ .
+ Note: This that the icons from Oxygen beeing used in here are not
+ used for the same apps/actions than in the original one, so don't
+ use Oxygen Refit 2, if you need a 1:1 port of Oxygen. For such, visit
+ http://www.gnome-look.org
